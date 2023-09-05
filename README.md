@@ -233,7 +233,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
 
     Hasil:
     
-    ![test1](https://github.com/Faqih26/PacmanCashier/assets/74944172/ee224f7f-4d2e-4bd5-a90c-931ab1cbe3ab)
+    ![test1](https://github.com/Faqih26/PacmanCashierProject/assets/74944172/14e7a21e-fbe8-4914-aab2-dbde7c31c00c)
     
     Gambar 2. Output test pertama
  
@@ -242,7 +242,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
 
     Hasil:
     
-    ![test24](https://github.com/Faqih26/PacmanCashier/assets/74944172/e3130d59-8e45-4cbf-83ea-7bdfb8943fe9)
+    ![test24](https://github.com/Faqih26/PacmanCashierProject/assets/74944172/4ec6b377-1559-4e09-b99a-f677e4597210)
     
     Gambar 3. Output test kedua
 
@@ -251,7 +251,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
 
     Hasil:
     
-    ![test3](https://github.com/Faqih26/PacmanCashier/assets/74944172/7fcfc26f-94e8-4c69-a58b-38f50e468e13)
+    ![test3](https://github.com/Faqih26/PacmanCashierProject/assets/74944172/5b839301-6a59-4f59-a4b7-2f264d48a1a2)
     
     Gambar 4. Output test ketiga
 
@@ -260,7 +260,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
 
     Hasil:
     
-    ![test444](https://github.com/Faqih26/PacmanCashier/assets/74944172/63449ae3-bda8-4831-bf2a-524154280c46)
+    ![test444](https://github.com/Faqih26/PacmanCashierProject/assets/74944172/322605c5-eb8e-4d66-9857-92da37068325)
     
     Gambar 5. Output test keempat
 
