@@ -42,7 +42,7 @@ Ini akan membantu dalam mengotomatisasi dan menyederhanakan proses penjualan di 
     
 ## Flowchart
 
-![flowchart drawio](https://github.com/Faqih26/PacmanCashier/blob/main/Untitled%20Diagram.jpg?raw=true)
+![flowchart drawio](https://github.com/Faqih26/PacmanCashierProject/blob/main/Untitled%20Diagram.jpg?raw=true)
 
 Gambar 1. Flowchart super cashier
 
